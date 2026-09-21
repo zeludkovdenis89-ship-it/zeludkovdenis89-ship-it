@@ -17,4 +17,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeludkovdenis89-ship-it/zeludkovdenis89-ship-it/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeludkovdenis89-ship-it/zeludkovdenis89-ship-it/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/zeludkovdenis89-ship-it/zeludkovdenis89-ship-it/output/github-snake.svg">
+</picture>
+
 </div>
