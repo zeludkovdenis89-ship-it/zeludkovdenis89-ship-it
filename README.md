@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════ TOP WAVE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=180&section=header&text=Hello%20everyone!&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=240&section=header&text=Hello%20everyone!&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- ═══════════ ANIMATED TITLE ═══════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Frontend+%26+Backend;C%2B%2B+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
@@ -59,19 +59,9 @@
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeludkovdenis89-ship-it&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=F7DF1E&area=true&area_color=36BCF7&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 <!-- ═══════════ BOTTOM WAVE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=240&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
