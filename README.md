@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,8 +33,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeludkovdenis89-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeludkovdenis89-ship-it&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.demolab.com/?username=zeludkovdenis89-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.demolab.com/?username=zeludkovdenis89-ship-it&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_radius=15"/>
 
 <br><br>
 
