@@ -1,15 +1,10 @@
 <div align="center">
 
 <!-- ═══════════ TOP WAVE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:36BCF7&height=200&section=header&text=Hello%20everyone!&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=180&section=header&text=Hello%20everyone!&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- ═══════════ ANIMATED TITLE ═══════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+%F0%9F%92%BB;C%2B%2B+Enthusiast+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-<!-- ═══════════ COUNTERS ═══════════ -->
-![Profile Views](https://komarev.com/ghpvc/?username=zeludkovdenis89-ship-it&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/zeludkovdenis89-ship-it?style=for-the-badge&color=8A2BE2&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/zeludkovdenis89-ship-it?style=for-the-badge&color=F7DF1E&label=STARS&logo=github&logoColor=black)
 
 </div>
 
@@ -75,11 +70,7 @@
 
 <div align="center">
 
-### Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <!-- ═══════════ BOTTOM WAVE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1E3A8A,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
