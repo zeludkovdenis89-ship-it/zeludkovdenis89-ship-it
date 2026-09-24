@@ -33,8 +33,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.demolab.com/?username=zeludkovdenis89-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats.demolab.com/?username=zeludkovdenis89-ship-it&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=zeludkovdenis89-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=c9d1d9&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zeludkovdenis89-ship-it&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_radius=15"/>
 
 <br><br>
 
@@ -42,8 +42,6 @@
 <img width="70%" src="https://streak-stats.demolab.com/?user=zeludkovdenis89-ship-it&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=F7DF1E&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&border_radius=15" alt="GitHub Streak"/>
 
 </div>
-
----
 
 ## My Commits
 
