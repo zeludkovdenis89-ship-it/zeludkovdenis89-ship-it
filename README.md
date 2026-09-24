@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=180&section=header&text=Hello%20everyone!&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- ═══════════ ANIMATED TITLE ═══════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+%F0%9F%92%BB;C%2B%2B+Enthusiast+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Frontend+%26+Backend;C%2B%2B+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,7 +38,7 @@
 <br><br>
 
 <!-- ═══════════ STREAK STATS ═══════════ -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeludkovdenis89-ship-it&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=F7DF1E&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&border_radius=15" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=zeludkovdenis89-ship-it&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=F7DF1E&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&border_radius=15" alt="GitHub Streak"/>
 
 </div>
 
